@@ -6,7 +6,7 @@
 	email = aubreypwd@gmail.com
 
 [core]
-	editor = subl -n -w
+	editor = vim +startinsert
 	excludesfile = /Users/aubreypwd/.gitignore_global
 
 [mergetool]
