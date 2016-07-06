@@ -71,3 +71,6 @@
 
 [color "branch"]
 	remote = yellow
+
+[alias]
+	ci = commit
